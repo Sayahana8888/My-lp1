@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>電磁波カット勾玉「彩華」公式LINE</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            background-color: #76c7c0;
+            padding: 20px;
+            color: #fff;
+        }
+        .header h1 {
+            margin: 0;
+        }
+        .content {
+            margin: 20px 0;
+        }
+        .button {
+            display: inline-block;
+            padding: 15px 30px;
+            font-size: 18px;
+            color: #fff;
+            background-color: #76c7c0;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .button:hover {
+            background-color: #5da5a4;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>電磁波カット勾玉「彩華」</h1>
+        </div>
+        <div class="content">
+            <p>電磁波から身を守るための勾玉「彩華」をご紹介します。</p>
+            <p>今すぐ公式LINEに登録して、特典をゲットしましょう！</p>
+            <a href="https://line.me/R/ti/p/%40your_line_id" class="button">公式LINEに登録</a>
+        </div>
+    </div>
+</body>
+</html>
